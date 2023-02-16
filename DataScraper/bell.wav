@@ -1,0 +1,615 @@
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+
+    <head>
+
+        
+
+        <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+        <meta name="description" content="Freesound: collaborative database of creative-commons licensed sound for musicians and sound lovers. Have you freed your sound today?" />
+        <meta name="keywords" content="free, sound" />
+        <link rel="stylesheet" type="text/css" href="/media/css/all.css?v=1302" />
+        <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/media/css/ie6.css?v=1302" /><![endif]-->
+        <link rel="icon" href="/favicon.ico" />
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+        <link rel="manifest" href="/site.webmanifest">
+        <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+        <meta name="msapplication-TileColor" content="#00aba9">
+        <meta name="theme-color" content="#ffffff">
+        <title>Freesound - &quot;Hand Bells, A, Single.wav&quot; by InspectorJ</title>
+        <script src="/media/js/jquery-1.5.2.min.js" type="text/javascript"></script>
+        <script src="/media/js/jquery-ui-1.8.11.custom.min.js" type="text/javascript"></script>
+        <script src="/media/js/jquery.cookie.js" type="text/javascript"></script>
+        <script src="/media/js/swfobject.js" type="text/javascript"></script>
+        <script src="/media/js/jquery.watermarkinput.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            var isLoggedIn = false;
+            var loginUrl = "/home/login/?next=/people/InspectorJ/sounds/339810/";
+            $(document).ready(function() {
+                 $("#search input[name=q]").Watermark("search sounds");
+            });
+            function clearWatermark(){
+			   $.Watermark.HideAll()
+			   return true
+			}
+        </script>
+        <script src="/media/js/freesound.js?v=1302" type="text/javascript"></script>
+    	<script src="/media/js/ajax_utils.js" type="text/javascript"></script>
+        <!-- next couple of lines are used for the HTML player -->
+        <link href='//fonts.googleapis.com/css?family=Inconsolata&v1' rel='stylesheet' type='text/css' />
+        <link rel="stylesheet" type="text/css" href="/media/html_player/player.css" />
+        <script src="/media/html_player/soundmanager2.js"></script>
+        <script type="text/javascript" src="/media/html_player/player.js"></script>
+        
+        <script defer data-domain="freesound.org" src="https://analytics.freesound.org/js/plausible.manual.js"></script>
+        <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
+        <script>
+          let redactedUrl = window.location.href.replace(/\/\d+\//g, "/_ID_/"); // Replace numberic IDs
+          redactedUrl = redactedUrl.replace(/people\/(\w+)\//ig, "people/_ID_/");  // Replace usernames
+          redactedUrl = redactedUrl.replace(/browse\/geotags\/(\w+)\//ig, "browse/geotags/_TAG_/");  // Replace tag frm geotags
+          redactedUrl = redactedUrl.replace(/browse\/tags\/.*/ig, "browse/tags/_TAGS_/");  // Replace multiple tags form tags
+          redactedUrl = redactedUrl.replace('freesound.org/', 'freesound.org/NG/'); // Alter path to indicate NG front end
+          plausible('pageview', { u: redactedUrl });
+        </script>
+
+        
+    <script type="text/javascript">
+        swfobject.registerObject("player_339810", "10");
+    </script>
+    <meta property="og:title" content="Hand Bells, A, Single.wav by InspectorJ" />
+    <meta property="og:type" content="song" />
+    <meta property="og:audio" content="https://freesound.orghttps://cdn.freesound.org/previews/339/339810_5121236-lq.mp3" />
+    <meta property="og:audio:artist" content="InspectorJ" />
+    <meta property="og:audio:title" content="Hand Bells, A, Single.wav" />
+    <meta property="og:url" content="https://freesound.org/people/InspectorJ/sounds/339810/" />
+    <meta property="og:audio:type" content="application/mp3" />
+<!--     <meta property="og:image" content="http://freesound.orghttps://cdn.freesound.org/displays/339/339810_5121236_wave_M.png" /> -->
+    <meta property="og:site_name" content="Freesound" />
+    <meta property="fb:admins" content="100002130282170" />
+
+    <meta name="twitter:card" content="player" />
+    <meta name="twitter:site" content="@freesound_dev" />
+    <meta name="twitter:title" content="Hand Bells, A, Single.wav" />
+    <meta name="twitter:description" content="A single hand bell strike of the note A.
+
+&lt;b&gt;This sound is &lt;u&gt;not&lt;/u&gt; in the public domain. Please attribute/credit the sound if you use it.&lt;/b&gt; If you would prefer to not have to give attribution, then take a look at the &lt;b&gt;&lt;a href=&quot;https://www.jshaw.co.uk/inspectorj-freesound-library&quot; rel=&quot;nofollow&quot;&gt;attribution-free license&lt;/a&gt;&lt;/b&gt;.
+
+An example of how you might credit is by putting this in the description/credits:
+&quot;Hand Bells, A, Single.wav&quot; by InspectorJ (&lt;a href=&quot;http://www.jshaw.co.uk&quot; rel=&quot;nofollow&quot;&gt;www.jshaw.co.uk&lt;/a&gt;) of &lt;a href=&quot;http://Freesound.org&quot; rel=&quot;nofollow&quot;&gt;Freesound.org&lt;/a&gt;
+
+If any of these sounds have been of help, and you are feeling charitable, please do consider&lt;b&gt; &lt;a href=&quot;http://www.freesound.org/donations/donate/&quot; rel=&quot;nofollow&quot;&gt;donating to Freesound&lt;/a&gt; &lt;/b&gt;to help keep the site running (a link is also on the home page). Any donations are greatly appreciated! And for more awesome sounds, do please &lt;b&gt;&lt;a href=&quot;https://www.jshaw.co.uk/libraries&quot; rel=&quot;nofollow&quot;&gt;check out my sound libraries&lt;/a&gt;&lt;/b&gt; or &lt;b&gt;&lt;a href=&quot;https://www.jshaw.co.uk/store&quot; rel=&quot;nofollow&quot;&gt;SFX store&lt;/a&gt;&lt;/b&gt;.
+
+Please comment on where you intend to use the sound, and feel free to post a link to the work where you used it if you want (I enjoy watching/listening to anything you create!)
+
+The sound was recorded using a &quot;H1 Zoom V2 recorder&quot; on 15th March 2016.
+
+Note: Audio quality is always better when downloaded." />
+    <meta name="twitter:image" content="https://cdn.freesound.org/displays/339/339810_5121236_wave_L.png" />
+    <meta name="twitter:player" content="https://freesound.org/embed/sound/iframe/339810/simple/full_size/" />
+    <meta name="twitter:player:width" content="440" />
+    <meta name="twitter:player:height" content="132" />
+    <meta name="twitter:player:stream" content="https://cdn.freesound.org/previews/339/339810_5121236-lq.mp3" />
+    <meta name="twitter:player:stream:content_type" content="audio/mp4" />
+
+
+        
+
+    </head>
+
+    <body id="" onload="" onunload="">
+
+        
+
+        <div id="header">
+            <div id="account_nav">
+                
+                    <a href="/home/register/">Register</a>
+                    <a href="/home/login/?next=/people/InspectorJ/sounds/339810/">Log In</a>
+                
+                <a href="/home/upload/" id="upload_button"></a>
+            </div>
+
+            <a href="/" id="logo"></a>
+
+            <div id="search">
+                <form method="get" onsubmit="return clearWatermark()" action="/search/">
+                    <fieldset>
+                       <input type="text" name="q" value="" size="30" />
+                       <input type="submit" value="" id="search_submit" />
+                    </fieldset>
+                </form>
+            </div>
+
+            <ul id="site_nav">
+                
+                <li class="active_tab"><a href="/browse/" id="site_nav_sounds"><span class="site_nav_icon"></span>Sounds</a></li>
+                <li class=""><a href="/forum/" id="site_nav_forums"><span class="site_nav_icon"></span>Forums</a></li>
+                <li class=""><a href="/people/" id="site_nav_people"><span class="site_nav_icon"></span>People</a></li>
+                <li class=""><a href="/help/faq/" id="site_nav_help"><span class="site_nav_icon"></span>Help</a></li>
+
+            </ul>
+        </div>
+
+        <div id="wrapper">
+            <div id="container">
+
+            
+
+            
+<div id="content_full"> <!-- START of Content area -->
+
+
+  
+<div id="single_sample_header" class="">
+    <a href="/people/InspectorJ/packs/19255/">Hand Bells, Singles</a>  &#187; <a href="#">Hand Bells, A, Single.wav</a>
+</div>
+
+<div id="single_sample_player">
+
+    
+
+    <div class="player large">
+        <div class="metadata">
+            
+                <a class="mp3_file" href="https://cdn.freesound.org/previews/339/339810_5121236-lq.mp3" title="mp3 file">Hand Bells, A, Single.wav - mp3 version</a>
+<a class="ogg_file" href="https://cdn.freesound.org/previews/339/339810_5121236-lq.ogg" title="ogg file">Hand Bells, A, Single.wav - ogg version</a>
+<a class="waveform" href="https://cdn.freesound.org/displays/339/339810_5121236_wave_L.png"
+   title="waveform file">Hand Bells, A, Single.wav - waveform</a>
+<a class="spectrum" href="https://cdn.freesound.org/displays/339/339810_5121236_spec_L.jpg"
+   title="spectrogram file">Hand Bells, A, Single.wav - spectrogram</a>
+<span class="duration" title="duration in seconds">7095.6900000000005</span>
+
+            
+        </div>
+    </div>
+</div>
+
+<div id="single_sample_content" class="">
+    <img src="/data/avatars/5121/5121236_M.jpg" alt="avatar" id="sound_author_avatar" />
+
+    <div id="sound_author_box">
+        <div id="sound_author"><a href="/people/InspectorJ/">InspectorJ</a></div>
+        <div id="sound_date">March 16th, 2016</div>
+    </div>
+    <div id="sound_description">
+        <p>A single hand bell strike of the note A.</p>
+
+<p><b>This sound is <u>not</u> in the public domain. Please attribute/credit the sound if you use it.</b> If you would prefer to not have to give attribution, then take a look at the <b><a href="https://www.jshaw.co.uk/inspectorj-freesound-library" rel="nofollow">attribution-free license</a></b>.</p>
+
+<p>An example of how you might credit is by putting this in the description/credits:<br>"Hand Bells, A, Single.wav" by InspectorJ (<a href="http://www.jshaw.co.uk" rel="nofollow">www.jshaw.co.uk</a>) of <a href="http://Freesound.org" rel="nofollow">Freesound.org</a></p>
+
+<p>If any of these sounds have been of help, and you are feeling charitable, please do consider<b> <a href="http://www.freesound.org/donations/donate/" rel="nofollow">donating to Freesound</a> </b>to help keep the site running (a link is also on the home page). Any donations are greatly appreciated! And for more awesome sounds, do please <b><a href="https://www.jshaw.co.uk/libraries" rel="nofollow">check out my sound libraries</a></b> or <b><a href="https://www.jshaw.co.uk/store" rel="nofollow">SFX store</a></b>.</p>
+
+<p>Please comment on where you intend to use the sound, and feel free to post a link to the work where you used it if you want (I enjoy watching/listening to anything you create!)</p>
+
+<p>The sound was recorded using a "H1 Zoom V2 recorder" on 15th March 2016.</p>
+
+<p>Note: Audio quality is always better when downloaded.</p>
+        
+        <div class="sound_signature">
+            <p><p>Feel free to credit on <b><a href="https://www.imdb.com/name/nm10713602/" rel="nofollow">IMDb</a></b> | <b><a href="https://www.patreon.com/JonathanShaw" rel="nofollow">Patreon</a></b></p></p>
+        </div>
+        
+    </div>
+
+    <ul class="tags">
+        
+            <li><a href="/browse/tags/Bells/">Bells</a></li>
+        
+            <li><a href="/browse/tags/percussion/">percussion</a></li>
+        
+            <li><a href="/browse/tags/bells/">bells</a></li>
+        
+            <li><a href="/browse/tags/a/">a</a></li>
+        
+            <li><a href="/browse/tags/instrument/">instrument</a></li>
+        
+            <li><a href="/browse/tags/A/">A</a></li>
+        
+            <li><a href="/browse/tags/Single/">Single</a></li>
+        
+            <li><a href="/browse/tags/Instrument/">Instrument</a></li>
+        
+            <li><a href="/browse/tags/hand/">hand</a></li>
+        
+            <li><a href="/browse/tags/single/">single</a></li>
+        
+            <li><a href="/browse/tags/Bell/">Bell</a></li>
+        
+            <li><a href="/browse/tags/bell/">bell</a></li>
+        
+            <li><a href="/browse/tags/Bright/">Bright</a></li>
+        
+            <li><a href="/browse/tags/bright/">bright</a></li>
+        
+            <li><a href="/browse/tags/Hand/">Hand</a></li>
+        
+            <li><a href="/browse/tags/Percussion/">Percussion</a></li>
+        
+    </ul>
+
+
+    <div id="comments_container">
+        <h4 id="comments_heading">Comments</h4>
+        <a name="comments"></a>
+        
+            <ul id="comments">
+                
+                <li>
+                    <img src="/media/images/32x32_avatar.png" alt="avatar" class="comment_avatar" />
+                    <div class="comment_info">
+                        <span class="comment_author"><a href="/people/joskocurkovic/">joskocurkovic</a></span>
+                        <span class="comment_date">2 years, 8 months ago</span>
+
+                        
+                    </div>
+                    <p>Thanks, I intend to use it on my non-commercial website.</p>
+
+                    <div style="text-align: right; font-size: 10px; margin-bottom: -8px">
+                        
+
+    <!-- do noting -->
+
+
+                    </div>
+
+                </li>
+                
+                <li>
+                    <img src="/media/images/32x32_avatar.png" alt="avatar" class="comment_avatar" />
+                    <div class="comment_info">
+                        <span class="comment_author"><a href="/people/nbs92/">nbs92</a></span>
+                        <span class="comment_date">5 years, 4 months ago</span>
+
+                        
+                    </div>
+                    <p>Thanks!!!<br>I like this soound!!</p>
+
+                    <div style="text-align: right; font-size: 10px; margin-bottom: -8px">
+                        
+
+    <!-- do noting -->
+
+
+                    </div>
+
+                </li>
+                
+                <li>
+                    <img src="/media/images/32x32_avatar.png" alt="avatar" class="comment_avatar" />
+                    <div class="comment_info">
+                        <span class="comment_author"><a href="/people/Jeremie_collado/">Jeremie_collado</a></span>
+                        <span class="comment_date">5 years, 7 months ago</span>
+
+                        
+                    </div>
+                    <p>Thanks, for a wedding video perfect match :)</p>
+
+                    <div style="text-align: right; font-size: 10px; margin-bottom: -8px">
+                        
+
+    <!-- do noting -->
+
+
+                    </div>
+
+                </li>
+                
+                <li>
+                    <img src="/media/images/32x32_avatar.png" alt="avatar" class="comment_avatar" />
+                    <div class="comment_info">
+                        <span class="comment_author"><a href="/people/jbrocs/">jbrocs</a></span>
+                        <span class="comment_date">5 years, 8 months ago</span>
+
+                        
+                    </div>
+                    <p>using this in a test animation, thank you!</p>
+
+                    <div style="text-align: right; font-size: 10px; margin-bottom: -8px">
+                        
+
+    <!-- do noting -->
+
+
+                    </div>
+
+                </li>
+                
+                <li>
+                    <img src="/media/images/32x32_avatar.png" alt="avatar" class="comment_avatar" />
+                    <div class="comment_info">
+                        <span class="comment_author"><a href="/people/biz001/">biz001</a></span>
+                        <span class="comment_date">5 years, 9 months ago</span>
+
+                        
+                    </div>
+                    <p>Very cool! Great for sound effects in videos. Thank you for this.</p>
+
+                    <div style="text-align: right; font-size: 10px; margin-bottom: -8px">
+                        
+
+    <!-- do noting -->
+
+
+                    </div>
+
+                </li>
+                
+            </ul>
+
+            <div id="comments_pagination">
+                <ul class="pagination"><li class="disabled-previous-next">previous</li><li class="next-page"><a href="/people/InspectorJ/sounds/339810/?page=2#comment" title="Next Page">next</a></li><li class="current-page">1</li><li class="other-page"><a href="/people/InspectorJ/sounds/339810/?page=2#comment" title="Page 2">2</a></li><p class="number_of_results">
+            
+                &nbsp|&nbsp 10 comments
+            
+        </p></ul>
+
+
+            </div>
+        
+    </div> <!-- comments_container -->
+
+    
+    <center><p>Please <a href="/home/login/?next=/people/InspectorJ/sounds/339810/">log in</a> to comment</center>
+    
+</div> <!-- single_sample_content -->
+
+<div id="single_sample_sidebar" class="">
+     <div id="single_sample_ratings">
+         <div class="stars">
+            <ul class="star-rating">
+    <li class="current-rating" style="width:77%;">Currently /5 Stars.</li>
+    
+</ul>
+            <span class="numratings">(28)</span>
+        </div>
+     </div>
+
+    <div id="download">
+    
+        
+            <a href="/people/InspectorJ/sounds/339810/download/339810__inspectorj__hand-bells-a-single.wav" id="download_login_button" title="login to download"></a>
+        
+    
+        <div id="download_text"><a href="/people/InspectorJ/sounds/339810/downloaders/">Downloaded<br /><b>5435</b> times</a></div>
+        <br style="clear: both;">
+    </div>
+
+    
+
+	<div id="sound_license">
+        <img src="/media/images/creative_commons.png" with="95" height="23" alt="Creative Commons" />
+        <a href="https://creativecommons.org/licenses/by/4.0/">This work is licensed under the Attribution 4.0 License.</a>
+    </div>
+
+    <dl id="sound_information_box">
+        <dt><a href="/help/soundinfo/type/#wav"><img src="/media/images/info.png" width="12" height="12" /></a>Type</dt><dd>Wave (.wav)</dd>
+        <dt><a href="/help/soundinfo/duration/"><img src="/media/images/info.png" width="12" height="12" /></a>Duration</dt><dd>0:07.095</dd>
+        <dt><a href="/help/soundinfo/filesize/"><img src="/media/images/info.png" width="12" height="12" /></a>Filesize</dt><dd>1.2 MB</dd>
+
+        
+        <dt><a href="/help/soundinfo/samplerate/"><img src="/media/images/info.png" width="12" height="12" /></a>Samplerate</dt><dd>44100.0 Hz</dd>
+        <dt><a href="/help/soundinfo/bitdepth/"><img src="/media/images/info.png" width="12" height="12" /></a>Bitdepth</dt><dd>16 bit</dd>
+        
+        <dt><a href="/help/soundinfo/channels/"><img src="/media/images/info.png" width="12" height="12" /></a>Channels</dt><dd>Stereo</dd>
+    </dl>
+
+    <ul id="sound_links" style="padding-left: 23px">
+        
+        
+        <li><a id="pack_link" class="icon" href="/people/InspectorJ/packs/19255/">Pack: Hand Bells, Singles</a></li>
+        
+        
+        
+        
+        <li><a id="similar_sounds_link" rel="nofollow" class="icon" href="/people/InspectorJ/sounds/339810/similar/">Similar sounds</a></li>
+        
+
+    
+
+        
+
+        
+
+        
+
+        
+
+    
+
+    </ul>
+
+    <div id="flag_sound">
+        Sound illegal or offensive? <a href="/people/InspectorJ/sounds/339810/flag/" title="flag this sound as ilegal, offensive or other...">Flag it!</a>
+    </div>
+
+    <div id="share_links">
+        <p>
+            <span style="color:#999">Share url: </span><input style="padding: 3px;width: 192px;" type="text" readonly value="https://freesound.org/s/339810/" />
+        </p>
+        <div id="social_links">
+            <div class="social_link">
+                <div id="fb-root" style="float: left;"></div>
+                <script src="https://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+                <fb:like href="https://freesound.org/s/339810/" send="false" layout="button_count" width="55" show_faces="false" font="arial"></fb:like>
+            </div>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a><script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>
+            <span id="tumblr_button_abc123" class="social_link"></span>
+            <div class="social_link">
+                <span id="show_embed_button" onclick="$('#embed_links').toggle(500);">Embed</span>
+            </div>
+            <br style="clear: both;" />
+        </div>
+        <div id="embed_links">
+            <div id="embed_large" class="embed_link">
+                <p>920 x 245</p>
+                <div class="embed_example embed_large" onclick="selectEmbedSize('large');"></div>
+            </div>
+            <div id="embed_medium" class="embed_link">
+                <p>481 x 86</p>
+                <div class="embed_example embed_medium" onclick="selectEmbedSize('medium');"></div>
+            </div>
+            <div id="embed_small" class="embed_link">
+                <p>375 x 30</p>
+                <div class="embed_example embed_small" onclick="selectEmbedSize('small');"></div>
+            </div>
+
+             <textarea id="embed_code" rows="4"></textarea>
+
+             <script type="text/javascript">
+
+                var tumblr_link_url = "https://freesound.org/people/InspectorJ/sounds/339810/";
+                var tumblr_link_name = "InspectorJ - Hand Bells, A, Single.wav";
+                var tumblr_link_description = "https://freesound.org";
+
+                function selectEmbedSize(size) {
+                    $('.embed_example').removeClass('embed_active');
+                    $('.embed_example.embed_'+size).addClass('embed_active');
+                    var sizes;
+                    if(size == 'large') sizes = [920, 245];
+                    if(size == 'medium') sizes = [481, 86];
+                    if(size == 'small') sizes = [375, 30];
+                    var embed_text = '<iframe frameborder="0" scrolling="no" src="https://freesound.org/embed/sound/iframe/339810/simple/SIZE/" width="WIDTH" height="HEIGHT"></iframe>';
+                    embed_text = embed_text.replace('SIZE', size);
+                    embed_text = embed_text.replace('WIDTH', sizes[0]);
+                    embed_text = embed_text.replace('HEIGHT', sizes[1]);
+                    $('#embed_code').text(embed_text);
+                }
+             </script>
+        </div>
+        <!--
+
+        <div id="share_content" style="display: none;">
+            <p>bla
+        </div> -->
+    </div>
+
+    
+
+</div> <!-- single_sample_sidebar -->
+
+<script type="text/javascript">
+    var tumblr_button = document.createElement("a");
+    tumblr_button.setAttribute("href", "https://www.tumblr.com/share/link?url=" + encodeURIComponent(tumblr_link_url) + "&name=" + encodeURIComponent(tumblr_link_name) + "&description=" + encodeURIComponent(tumblr_link_description));
+    tumblr_button.setAttribute("title", "Share on Tumblr");
+    tumblr_button.setAttribute("style", "display:inline-block; text-indent:-9999px; overflow:hidden; width:61px; height:20px; background:url('https://platform.tumblr.com/v1/share_2.png') top left no-repeat transparent;");
+    tumblr_button.innerHTML = "Share on Tumblr";
+    document.getElementById("tumblr_button_abc123").appendChild(tumblr_button);
+
+    $(function() {
+        unsecureImageCheck($('#id_comment'));
+
+        var is_following;
+        if ("False" == "True") is_following = true;
+        else is_following = false;
+        $("#follow_link_sound").click(function() {
+            follow_unfollow_user(is_following);
+        });
+
+        if (navigator.userAgent.indexOf('Safari') !== -1 && navigator.userAgent.indexOf('Chrome') === -1) {
+            // Only run this line when safari is the browser (code from http://stackoverflow.com/questions/5899783/detect-safari-using-jquery)
+            // See https://github.com/MTG/freesound/issues/836 about this code
+            var download_button = $('#download_button');
+            download_button.attr('onclick', '');
+            download_button.click(function(){
+                setTimeout(function(){
+                        afterDownloadModal('/after-download-modal/','Hand Bells, A, Single.wav');
+                    }, 100)
+                }
+            );
+        }
+    });
+
+    function follow_unfollow_user(is_following) {
+
+        $("#follow_link_sound").unbind("click");
+
+        var url;
+        if (is_following) {
+            url = '/follow/unfollow_user/InspectorJ/';
+        }
+        else {
+            url = '/follow/follow_user/InspectorJ/';
+        }
+
+        $.ajax({
+
+            type: 'POST',
+            url: url,
+
+        success: function () {
+
+                is_following = !is_following;
+                $("#follow_error").hide();
+
+                if (is_following)
+                    $("#follow_link_sound").text("Unfollow this user");
+                else
+                    $("#follow_link_sound").text("Follow this user");
+
+                $("#follow_link_sound").click(function() {
+                    follow_unfollow_user(is_following);
+                });
+            },
+
+            error: function (data) {
+                $("#follow_error").show();
+                window.setTimeout(function(){
+                    $("#follow_error").fadeOut(200);
+                }, 3000);
+            }
+
+        });
+    }
+
+</script>
+
+
+</div> <!-- END of Content area -->
+
+<br class="clear" />
+
+
+
+            </div>
+        </div>
+
+        <div id="footer_wrapper">
+            <div id="footer">
+                <div id="cookie-bar">
+                    <div style="float:left;max-width:90%;">
+                        <p>
+                            In our website we only use our own technical cookies for allowing you to access and use the Freesound platform (necessary cookies).
+                            <br>Click <a href="/help/cookies_policy">here</a> for more information.
+                        </p>
+                    </div>
+                    <div style="float:right; margin-top:10px;margin-right:10px;">
+                        <button id="cookie-accept">Ok</button>
+                    </div>
+                    <br class="clear">
+
+                </div>
+                <div id="footer_links">
+                    <a href="/help/developers/">Developers</a>
+                    <a href="https://blog.freesound.org/">Blog</a>
+                    <a href="/help/about/">About</a>
+                    <a href="/help/tos_web/">Terms of use</a>
+                    <a href="/help/privacy/">Privacy</a>
+                    <a href="/help/cookies_policy/">Cookies</a>
+                </div>
+                <div id="footer_credits">
+                    Design by <a href="http://www.pixelshell.com">Pixelshell</a>. Code by <a href="https://www.upf.edu/web/mtg">MTG (UPF)</a>. Some Rights Reserved.
+                </div>
+            </div>
+        </div>
+
+        <div id="fsmodal" class="modal"></div>
+    </body>
+    
+    
+</html>
